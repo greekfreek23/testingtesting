@@ -1,0 +1,12 @@
+{
+    "TEST1": {
+        "business": "Test Company One",
+        "phone": "(555) 123-4567",
+        "location": "Atlanta, GA"
+    },
+    "TEST2": {
+        "business": "Test Company Two",
+        "phone": "(555) 987-6543",
+        "location": "Miami, FL"
+    }
+}
